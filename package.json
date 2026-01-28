@@ -1,0 +1,15 @@
+{
+  "name": "mochachai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mylib.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+  }
+}
